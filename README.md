@@ -1,4 +1,4 @@
-# Sensor App
+# Light Sensor App
 
 ## Description
 
